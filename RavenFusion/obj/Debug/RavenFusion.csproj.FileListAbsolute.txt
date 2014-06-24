@@ -1,0 +1,12 @@
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\bin\Debug\RavenFusion.dll
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\bin\Debug\RavenFusion.pdb
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\bin\Debug\Dapper.dll
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\bin\Debug\Raven.Abstractions.dll
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\bin\Debug\Raven.Client.Lightweight.dll
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\bin\Debug\Dapper.pdb
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\bin\Debug\Dapper.xml
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\bin\Debug\Raven.Abstractions.xml
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\bin\Debug\Raven.Client.Lightweight.xml
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\obj\Debug\RavenFusion.csprojResolveAssemblyReference.cache
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\obj\Debug\RavenFusion.dll
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusion\obj\Debug\RavenFusion.pdb

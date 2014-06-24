@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenFusion", "RavenFusion\RavenFusion.csproj", "{124B1A91-6E9C-49E6-BF86-B209FB8B556E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenFusionSearch", "RavenFusionSearch\RavenFusionSearch.csproj", "{2F208C35-2F93-4BAE-8F1C-56666E909666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{124B1A91-6E9C-49E6-BF86-B209FB8B556E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{124B1A91-6E9C-49E6-BF86-B209FB8B556E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{124B1A91-6E9C-49E6-BF86-B209FB8B556E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{124B1A91-6E9C-49E6-BF86-B209FB8B556E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F208C35-2F93-4BAE-8F1C-56666E909666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F208C35-2F93-4BAE-8F1C-56666E909666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F208C35-2F93-4BAE-8F1C-56666E909666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F208C35-2F93-4BAE-8F1C-56666E909666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
