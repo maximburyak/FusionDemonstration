@@ -1,7 +1,4 @@
-C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\obj\Debug\RavenFusionSearch.csprojResolveAssemblyReference.cache
-C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\RavenFusionSearch.dll.config
-C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\RavenFusionSearch.dll
-C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\RavenFusionSearch.pdb
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\System.Web.Mvc.xml
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\Antlr3.Runtime.dll
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\Humanizer.dll
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\Microsoft.Web.Infrastructure.dll
@@ -30,7 +27,6 @@ C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSe
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\System.Web.Helpers.xml
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\System.Web.Http.xml
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\System.Web.Http.WebHost.xml
-C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\System.Web.Mvc.xml
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\System.Web.Optimization.xml
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\System.Web.Razor.xml
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\System.Web.WebPages.xml
@@ -70,5 +66,9 @@ C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSe
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\sv\Humanizer.resources.dll
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\tr\Humanizer.resources.dll
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\vi\Humanizer.resources.dll
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\obj\Debug\RavenFusionSearch.csprojResolveAssemblyReference.cache
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\obj\Debug\RavenFusionSearch.dll
 C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\obj\Debug\RavenFusionSearch.pdb
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\RavenFusionSearch.dll.config
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\RavenFusionSearch.dll
+C:\Users\Maxim1\Documents\Visual Studio 2013\Projects\FusionSearch\RavenFusionSearch\bin\RavenFusionSearch.pdb

@@ -64,7 +64,7 @@ namespace RavenFusion
         {
             IEnumerable<WorkItem> atomWorkItems;
             // load workItems
-            using (var workItemsSession = store.OpenSession())
+            using (var worekeiItemsBulkInsert = store.BulkInsert())
             {
                 atomWorkItems =
                     connection.Query<RavenFusion.Models.AtomSide.WorkItem>(@"SELECT * FROM WORKITEM ORDER BY ID DESC");
@@ -76,14 +76,14 @@ namespace RavenFusion
 
                 foreach (var curWorkItem in atomWorkItems)
                 {
-                    GenerateWorkItem(connection, curWorkItem, closureReasonDictionary, handlingDepartmentsDictionary, productGroupsDictionary, workItemsSession, usersDictionary);
+                    GenerateWorkItem(connection, curWorkItem, closureReasonDictionary, handlingDepartmentsDictionary, productGroupsDictionary, worekeiItemsBulkInsert, usersDictionary);
                 }
-                workItemsSession.SaveChanges();
+                
             }
         }
 
         private void GenerateWorkItem(SqlConnection connection, WorkItem curWorkItem, Dictionary<int, ClosureReasonItem> closureReasonDictionary,
-            Dictionary<int, HandlingDepartment> handlingDepartmentsDictionary, Dictionary<int, ProductGroupItem> productGroupsDictionary, IDocumentSession workItemsSession,
+            Dictionary<int, HandlingDepartment> handlingDepartmentsDictionary, Dictionary<int, ProductGroupItem> productGroupsDictionary, BulkInsertOperation workItemsSession,
             Dictionary<int, User> usersDictionary)
         {
             var comments =
